@@ -1,6 +1,6 @@
 ## Master Repo Guide
 
-#Computer Science Courses at the University of Pittsburgh:
+# Computer Science Courses at the University of Pittsburgh:
 * CS 007 (Intro to Java Programming)
 * CS 0401 (Intermediate Java Programming)
 * CS 0441 (Discrete Structures for CS)
